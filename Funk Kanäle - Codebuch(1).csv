@@ -1,0 +1,28 @@
+Codebuch,,,,,,,,,,,,,,
+Nodelist,,,,,,,,,,,,,,
+id,kanal,name,abos,bereich,konstellation,aktiv,jahr,funk,wohnsitz,veröffentlichungsdatum,upload,austrittsdatum,kritikvideos,reaktion_kritik
+Kanalkürzel,Kanalname,Inhaber oder Moderator,Abonenntenanzahl ,mb = meinungsblogger,Einzelperson oder Gruppe,ist der Kanal noch aktiv?,Gründungsjahr,Gehört der Kanal zu Funk?,Produktionsort als Stadt,jjjj/mm/tt,Anzahl aller Videos,für ehemalige:,Anzahl Kritikvideos,Anzahl Videos
+,,,in tausend,r = reaction,1 = Einzelperson,1 = Ja,,1 = Ja,,Datum des ersten,zwischen,"Monat und Jahr, wann Funk verlassen wurde",im Zeitraum,von Funk-Kanälen
+,,,,i = influencer,2 = Gruppe,2 = Nein ,,2 = Nein,,"""Kritik""-Videos",01.09.2023,jjjj/mm,für Kritiker,auf Kritiker
+,,,,f = funk,,,,3 = Ehemalig,,,29.02.2024,,,
+,,,,u = unterhaltung,,,,,,,,,,
+,,,,l = lifestyle,,,,,,,,,,
+,,,,w = wissen,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,  ,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Edgeliste,,,,,,,,,,,,,,
+from,to,relationship,weight,,,,,,,,,,,
+,,1= Teil des Funk_Netzw,Anzahl der Videos ,,,,,,,,,,,
+,,2= Reaction,1= 1 Video,,,,,,,,,,,
+,,3= positive Erwähnung,2= 2 Videos,,,,,,,,,,,
+,,4= Kritik,3= ab 3 Videos,,,,,,,,,,,
+,,5= ehemaliges Funknetzwerk,,,,,,,,,,,,
+,,6= Kollaboration,,,,,,,,,,,,
